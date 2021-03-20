@@ -13,6 +13,7 @@
 
 ### blog & paper & tutorial & book & discussion
 
+- [GPU-accelerated Path Rendering](https://developer.download.nvidia.cn/devzone/devcenter/gamegraphics/files/opengl/gpupathrender.pdf)
 - [NVIDIA Path Rendering: Accelerating Vector Graphics for the Mobile Web](https://on-demand.gputechconf.com/gtc/2014/presentations/S4810-accelerating-vector-graphics-mobile-web.pdf)
 - [Massively-Parallel Vector Graphics](http://w3.impa.br/~diego/projects/GanEtAl14/)
 - [2D Graphics on Modern GPU](https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html)
