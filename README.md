@@ -1,6 +1,11 @@
-# Awesome 2d graphic rendering
+# Awesome 2d graphics rendering
 
-## Vector Graphic 
+## 2d graphics library
+
+- [skia](https://skia.org/): Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms. It serves as the graphics engine for Google Chrome and Chrome OS, Android, Flutter, Mozilla Firefox and Firefox OS, and many other products.
+- [cairo](https://www.cairographics.org/): Cairo is a 2D graphics library with support for multiple output devices. Currently supported output targets include the X Window System (via both Xlib and XCB), Quartz, Win32, image buffers, PostScript, PDF, and SVG file output. Experimental backends include OpenGL, BeOS, OS/2, and DirectFB.
+
+## Vector graphics library
 
 ### Library
 
