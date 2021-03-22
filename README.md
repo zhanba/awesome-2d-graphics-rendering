@@ -16,7 +16,9 @@
 
 ## Font library
 
+- [harfbuzz](https://github.com/harfbuzz/harfbuzz): HarfBuzz text shaping engine
 - [Allsorts](https://github.com/yeslogic/allsorts): Font parser, shaping engine, and subsetter for OpenType, WOFF, and WOFF2 implemented in Rust.
+- [rustybuzz](https://github.com/RazrFalcon/rustybuzz): A complete harfbuzz's shaping algorithm port to Rust
 
 ## blog & paper & tutorial & book & discussion
 
