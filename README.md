@@ -34,3 +34,4 @@
 - [Blend2D – 2D Vector Graphics Engine](https://news.ycombinator.com/item?id=19580647)
 - [Introduction to lyon: 2D vector graphics rendering on the GPU in rust](https://nical.github.io/posts/lyon-intro.html)
 - [Fonts & Encodings](https://www.oreilly.com/library/view/fonts-encodings/9780596102425/)
+- [Modern text rendering with Linux: Overview](https://mrandri19.github.io/2019/07/24/modern-text-rendering-linux-overview.html)
