@@ -1,11 +1,16 @@
-# Awesome 2d graphics rendering
+# Awesome 2D Graphics Rendering
 
-## 2d graphics library
+## 2D Graphics Library
 
 - [skia](https://skia.org/): Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms. It serves as the graphics engine for Google Chrome and Chrome OS, Android, Flutter, Mozilla Firefox and Firefox OS, and many other products.
 - [cairo](https://www.cairographics.org/): Cairo is a 2D graphics library with support for multiple output devices. Currently supported output targets include the X Window System (via both Xlib and XCB), Quartz, Win32, image buffers, PostScript, PDF, and SVG file output. Experimental backends include OpenGL, BeOS, OS/2, and DirectFB.
 
-## Vector graphics library
+## Vector Graphics Standards
+
+- [OpenVG](https://www.khronos.org/openvg/): The Standard For Vector Graphics Acceleration.
+- [SVG](https://www.w3.org/TR/SVG2/): W3C Scalable Vector Graphics 2.
+
+## Vector Graphics Library
 
 - [piet-gpu](https://github.com/linebender/piet-gpu): An experimental GPU compute-centric 2D renderer.
 - [Blend2D](https://blend2d.com/): Blend2D is a high performance 2D vector graphics engine written in C++ and released under the Zlib license.
@@ -13,8 +18,11 @@
 - [lyon](https://github.com/nical/lyon): 2D graphics rendering on the GPU in rust using path tessellation.
 - [pathfinder](https://github.com/servo/pathfinder): A fast, practical GPU rasterizer for fonts and vector graphics.
 - [NanoVG](https://github.com/memononen/nanovg): Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. (not actively maintained)
+- [plutovg](https://github.com/sammycage/plutovg): Tiny 2D vector graphics library in C.
+- [ShivaVG](https://github.com/ileben/ShivaVG): OpenGL based ANSI C implementation of the OpenVG standard.
+- [MonkVG](https://github.com/micahpearlman/MonkVG): MonkVG is an OpenVG 1.1 like vector graphics API implementation optimized for game use currently using an OpenGL ES backend that should be compatible with any HW that supports OpenGL ES 2.0 which includes most iOS and Android devices.
 
-## Font library
+## Font Library
 
 - [harfbuzz](https://github.com/harfbuzz/harfbuzz): HarfBuzz text shaping engine
 - [Allsorts](https://github.com/yeslogic/allsorts): Font parser, shaping engine, and subsetter for OpenType, WOFF, and WOFF2 implemented in Rust.
@@ -23,7 +31,7 @@
 - [glyph-brush](https://github.com/alexheretic/glyph-brush): Fast GPU cached text rendering
 
 
-## blog & paper & tutorial & book & discussion
+## Blog & Paper & Tutorial & Book & Discussion
 
 - [GPU-accelerated Path Rendering](https://developer.download.nvidia.cn/devzone/devcenter/gamegraphics/files/opengl/gpupathrender.pdf)
 - [NVIDIA Path Rendering: Accelerating Vector Graphics for the Mobile Web](https://on-demand.gputechconf.com/gtc/2014/presentations/S4810-accelerating-vector-graphics-mobile-web.pdf)
