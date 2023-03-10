@@ -4,6 +4,9 @@
 
 - [skia](https://skia.org/): Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms. It serves as the graphics engine for Google Chrome and Chrome OS, Android, Flutter, Mozilla Firefox and Firefox OS, and many other products.
 - [cairo](https://www.cairographics.org/): Cairo is a 2D graphics library with support for multiple output devices. Currently supported output targets include the X Window System (via both Xlib and XCB), Quartz, Win32, image buffers, PostScript, PDF, and SVG file output. Experimental backends include OpenGL, BeOS, OS/2, and DirectFB.
+- [Core Graphics](https://developer.apple.com/library/archive/documentation/GraphicsImaging/Conceptual/drawingwithquartz2d/Introduction/Introduction.html): also known as Quartz 2D, is an advanced, two-dimensional drawing engine available for iOS, tvOS and macOS application development. Quartz 2D provides low-level, lightweight 2D rendering with unmatched output fidelity regardless of display or printing device. Quartz 2D is resolution- and device-independent.
+- [Direct2D](https://learn.microsoft.com/en-us/windows/win32/direct2d/direct2d-portal): Direct2D is a hardware-accelerated, immediate-mode, 2-D graphics API that provides high performance and high-quality rendering for 2-D geometry, bitmaps, and text.
+- [pixie](https://github.com/treeform/pixie): Full-featured 2d graphics library for Nim.
 
 ## Vector Graphics Standards
 
@@ -12,7 +15,7 @@
 
 ## Vector Graphics Library
 
-- [piet-gpu](https://github.com/linebender/piet-gpu): An experimental GPU compute-centric 2D renderer.
+- [vello](https://github.com/linebender/vello): An experimental GPU compute-centric 2D renderer.
 - [Blend2D](https://blend2d.com/): Blend2D is a high performance 2D vector graphics engine written in C++ and released under the Zlib license.
 - [AmanithSVG](https://www.amanithsvg.com/): AmanithSVG is a high performance native software library that implements fast rendering of static SVG files on top of OpenVG API, developed by Mazatech
 - [lyon](https://github.com/nical/lyon): 2D graphics rendering on the GPU in rust using path tessellation.
@@ -25,11 +28,21 @@
 ## Font Library
 
 - [harfbuzz](https://github.com/harfbuzz/harfbuzz): HarfBuzz text shaping engine
+- [pango](https://pango.gnome.org/): Pango is a library for laying out and rendering of text, with an emphasis on internationalization.
 - [Allsorts](https://github.com/yeslogic/allsorts): Font parser, shaping engine, and subsetter for OpenType, WOFF, and WOFF2 implemented in Rust.
 - [rustybuzz](https://github.com/RazrFalcon/rustybuzz): A complete harfbuzz's shaping algorithm port to Rust
 - [swash](https://github.com/dfrg/swash): Font introspection, complex text shaping and glyph rendering.
 - [glyph-brush](https://github.com/alexheretic/glyph-brush): Fast GPU cached text rendering
+- [parley](https://github.com/lapce/parley): WIP rich text layout library
 
+## Layout library
+- [taffy](https://github.com/DioxusLabs/taffy): A high performance Rust-powered layout library
+- [yoga](https://github.com/facebook/yoga): Yoga is a cross-platform layout engine which implements Flexbox.
+- [stretch](https://github.com/vislyhq/stretch): High performance flexbox implementation written in rust
+
+## Other
+- [glazier]https://github.com/linebender/glazier: Glazier is an operating system integration layer infrastructure layer intended for high quality GUI toolkits in Rust. It is agnostic to the choice of drawing, so the client must provide that, but the goal is to abstract over most of the other integration points with the underlying operating system.
+- [winit](https://github.com/rust-windowing/winit): Window handling library in pure Rust
 
 ## Blog & Paper & Tutorial & Book & Discussion
 
