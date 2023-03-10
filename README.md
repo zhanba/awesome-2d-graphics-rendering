@@ -41,7 +41,7 @@
 - [stretch](https://github.com/vislyhq/stretch): High performance flexbox implementation written in rust
 
 ## Other
-- [glazier]https://github.com/linebender/glazier: Glazier is an operating system integration layer infrastructure layer intended for high quality GUI toolkits in Rust. It is agnostic to the choice of drawing, so the client must provide that, but the goal is to abstract over most of the other integration points with the underlying operating system.
+- [glazier](https://github.com/linebender/glazier): Glazier is an operating system integration layer infrastructure layer intended for high quality GUI toolkits in Rust. It is agnostic to the choice of drawing, so the client must provide that, but the goal is to abstract over most of the other integration points with the underlying operating system.
 - [winit](https://github.com/rust-windowing/winit): Window handling library in pure Rust
 
 ## Blog & Paper & Tutorial & Book & Discussion
