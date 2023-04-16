@@ -2,9 +2,13 @@
 
 ## UI Framework
 
+### Web
+- [yew](https://github.com/yewstack/yew): Rust / Wasm framework for building client web apps
 - [dioxus](https://github.com/DioxusLabs/dioxus): React-like GUI library for desktop, web, mobile, TUI, and more.
 - [slint](https://github.com/slint-ui/slint): Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++, or JavaScript.
+- [sycamore](https://github.com/sycamore-rs/sycamore): A library for creating reactive web apps in Rust and WebAssembly
 
+### Native
 - [leptos](https://github.com/leptos-rs/leptos): Build fast web applications with Rust.
 - [xilem](https://github.com/linebender/xilem): An experimental Rust native UI framework
 - [rui](https://github.com/audulus/rui): Experimental Rust UI library
@@ -12,6 +16,7 @@
 - [floem](https://github.com/lapce/floem): A native Rust UI library with fine-grained reactivity
 - [masonry-rs](https://github.com/PoignardAzur/masonry-rs): Rust UI design toolkit.
 - [async-ui](https://github.com/wishawa/async_ui): Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust
+- [reclutch](https://github.com/jazzfool/reclutch): A strong foundation for building predictable and straight-forward Rust UI toolkits
 
 ## 2D renderer
 
@@ -58,6 +63,7 @@
 - [glazier](https://github.com/linebender/glazier): Glazier is an operating system integration layer infrastructure layer intended for high quality GUI toolkits in Rust. It is agnostic to the choice of drawing, so the client must provide that, but the goal is to abstract over most of the other integration points with the underlying operating system.
 - [winit](https://github.com/rust-windowing/winit): Window handling library in pure Rust
 - [accesskit](https://github.com/AccessKit/accesskit): UI accessibility infrastructure across platforms and programming languages
+- [fluent](https://github.com/projectfluent/fluent-rs): 
 
 ## Blog & Paper & Tutorial & Book & Discussion
 
