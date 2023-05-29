@@ -17,6 +17,7 @@
 - [masonry-rs](https://github.com/PoignardAzur/masonry-rs): Rust UI design toolkit.
 - [async-ui](https://github.com/wishawa/async_ui): Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust
 - [reclutch](https://github.com/jazzfool/reclutch): A strong foundation for building predictable and straight-forward Rust UI toolkits
+- [vizia](https://github.com/vizia/vizia): A declarative GUI library written in Rust
 
 ## 2D renderer
 
@@ -58,6 +59,7 @@
 - [taffy](https://github.com/DioxusLabs/taffy): A high performance Rust-powered layout library
 - [yoga](https://github.com/facebook/yoga): Yoga is a cross-platform layout engine which implements Flexbox.
 - [stretch](https://github.com/vislyhq/stretch): High performance flexbox implementation written in rust
+- [morphorm](https://github.com/vizia/morphorm): A UI layout engine written in Rust
 
 ## Other
 - [glazier](https://github.com/linebender/glazier): Glazier is an operating system integration layer infrastructure layer intended for high quality GUI toolkits in Rust. It is agnostic to the choice of drawing, so the client must provide that, but the goal is to abstract over most of the other integration points with the underlying operating system.
