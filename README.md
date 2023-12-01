@@ -45,7 +45,7 @@
 - [OpenVG](https://www.khronos.org/openvg/): The Standard For Vector Graphics Acceleration.
 - [SVG](https://www.w3.org/TR/SVG2/): W3C Scalable Vector Graphics 2.
 
-## Font Library
+## Font/Text Library
 
 - [harfbuzz](https://github.com/harfbuzz/harfbuzz): HarfBuzz text shaping engine
 - [pango](https://pango.gnome.org/): Pango is a library for laying out and rendering of text, with an emphasis on internationalization.
@@ -54,6 +54,7 @@
 - [swash](https://github.com/dfrg/swash): Font introspection, complex text shaping and glyph rendering.
 - [glyph-brush](https://github.com/alexheretic/glyph-brush): Fast GPU cached text rendering
 - [parley](https://github.com/lapce/parley): WIP rich text layout library
+- [wgpu-text](https://github.com/Blatko1/wgpu-text): A simple 2D text renderer for wgpu
 
 ## Graphic Layout Engine
 - [taffy](https://github.com/DioxusLabs/taffy): A high performance Rust-powered layout library
