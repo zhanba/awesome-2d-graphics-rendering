@@ -55,6 +55,7 @@
 - [glyph-brush](https://github.com/alexheretic/glyph-brush): Fast GPU cached text rendering
 - [parley](https://github.com/lapce/parley): WIP rich text layout library
 - [wgpu-text](https://github.com/Blatko1/wgpu-text): A simple 2D text renderer for wgpu
+- [glyphon](https://github.com/grovesNL/glyphon): 🦅🦁 Fast, simple 2D text renderer for wgpu
 
 ## Graphic Layout Engine
 - [taffy](https://github.com/DioxusLabs/taffy): A high performance Rust-powered layout library
