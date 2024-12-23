@@ -19,6 +19,10 @@
 - [reclutch](https://github.com/jazzfool/reclutch): A strong foundation for building predictable and straight-forward Rust UI toolkits
 - [vizia](https://github.com/vizia/vizia): A declarative GUI library written in Rust
 
+## 2D Graphic editor
+- [Graphite](https://github.com/GraphiteEditor/Graphite): Open source 2D node-based raster/vector graphics editor
+- [Lapce](https://github.com/lapce/lapce): Lightning-fast and Powerful Code Editor written in Rust
+
 ## 2D renderer
 
 - [skia](https://skia.org/): Skia is an open source 2D graphics library which provides common APIs that work across a variety of hardware and software platforms. It serves as the graphics engine for Google Chrome and Chrome OS, Android, Flutter, Mozilla Firefox and Firefox OS, and many other products.
@@ -62,12 +66,14 @@
 - [yoga](https://github.com/facebook/yoga): Yoga is a cross-platform layout engine which implements Flexbox.
 - [stretch](https://github.com/vislyhq/stretch): High performance flexbox implementation written in rust
 - [morphorm](https://github.com/vizia/morphorm): A UI layout engine written in Rust
+- [elkjs](https://github.com/kieler/elkjs): ELK's layout algorithms for JavaScript
+- [elk](https://github.com/eclipse-elk/elk): Eclipse Layout Kernel - Automatic layout for Java applications.
+- [dagre](https://github.com/dagrejs/dagre): Directed graph layout for JavaScript
 
 ## Other
 - [glazier](https://github.com/linebender/glazier): Glazier is an operating system integration layer infrastructure layer intended for high quality GUI toolkits in Rust. It is agnostic to the choice of drawing, so the client must provide that, but the goal is to abstract over most of the other integration points with the underlying operating system.
 - [winit](https://github.com/rust-windowing/winit): Window handling library in pure Rust
 - [accesskit](https://github.com/AccessKit/accesskit): UI accessibility infrastructure across platforms and programming languages
-- [fluent](https://github.com/projectfluent/fluent-rs): 
 
 ## Blog & Paper & Tutorial & Book & Discussion
 
