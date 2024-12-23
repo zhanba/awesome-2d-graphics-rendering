@@ -69,6 +69,7 @@
 - [elkjs](https://github.com/kieler/elkjs): ELK's layout algorithms for JavaScript
 - [elk](https://github.com/eclipse-elk/elk): Eclipse Layout Kernel - Automatic layout for Java applications.
 - [dagre](https://github.com/dagrejs/dagre): Directed graph layout for JavaScript
+- [clay](https://github.com/nicbarker/clay): High performance UI layout library in C.
 
 ## Other
 - [glazier](https://github.com/linebender/glazier): Glazier is an operating system integration layer infrastructure layer intended for high quality GUI toolkits in Rust. It is agnostic to the choice of drawing, so the client must provide that, but the goal is to abstract over most of the other integration points with the underlying operating system.
