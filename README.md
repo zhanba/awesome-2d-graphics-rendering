@@ -18,6 +18,7 @@
 - [async-ui](https://github.com/wishawa/async_ui): Lifetime-Friendly, Component-Based, Retained-Mode UI Powered by Async Rust
 - [reclutch](https://github.com/jazzfool/reclutch): A strong foundation for building predictable and straight-forward Rust UI toolkits
 - [vizia](https://github.com/vizia/vizia): A declarative GUI library written in Rust
+- [Ribir](https://github.com/RibirX/Ribir): Non-intrusive GUI framework for Rust/WASM
 
 ## 2D Graphic editor
 - [Graphite](https://github.com/GraphiteEditor/Graphite): Open source 2D node-based raster/vector graphics editor
