@@ -52,7 +52,9 @@
 
 ## Font/Text Library
 
+- [fontations](https://github.com/googlefonts/fontations): Reading and writing font files
 - [harfbuzz](https://github.com/harfbuzz/harfbuzz): HarfBuzz text shaping engine
+- [harfrust](https://github.com/harfbuzz/harfrust): HarfBuzz port to Rust
 - [pango](https://pango.gnome.org/): Pango is a library for laying out and rendering of text, with an emphasis on internationalization.
 - [Allsorts](https://github.com/yeslogic/allsorts): Font parser, shaping engine, and subsetter for OpenType, WOFF, and WOFF2 implemented in Rust.
 - [rustybuzz](https://github.com/RazrFalcon/rustybuzz): A complete harfbuzz's shaping algorithm port to Rust
