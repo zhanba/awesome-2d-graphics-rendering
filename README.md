@@ -81,6 +81,7 @@
 
 ## Blog & Paper & Tutorial & Book & Discussion
 
+- [Vector graphics on GPU](https://gasiulis.name/vector-graphics-on-gpu/)
 - [Text Rendering Hates You](https://faultlore.com/blah/text-hates-you/)
 - [GPU-accelerated Path Rendering](https://developer.download.nvidia.cn/devzone/devcenter/gamegraphics/files/opengl/gpupathrender.pdf)
 - [NVIDIA Path Rendering: Accelerating Vector Graphics for the Mobile Web](https://on-demand.gputechconf.com/gtc/2014/presentations/S4810-accelerating-vector-graphics-mobile-web.pdf)
