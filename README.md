@@ -1,3 +1,5 @@
+
+
 # Awesome 2D Graphics Rendering
 
 ## UI Framework
@@ -20,7 +22,7 @@
 - [vizia](https://github.com/vizia/vizia): A declarative GUI library written in Rust
 - [Ribir](https://github.com/RibirX/Ribir): Non-intrusive GUI framework for Rust/WASM
 
-## 2D Graphic editor
+## 2D Graphics editors
 - [Graphite](https://github.com/GraphiteEditor/Graphite): Open source 2D node-based raster/vector graphics editor
 - [Lapce](https://github.com/lapce/lapce): Lightning-fast and Powerful Code Editor written in Rust
 
